@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Nickolas Franco, a passionate Full-Stack Developer eager to build scalable and efficient solutions
+## 👋 Hey, I'm Nickolas Franco, a Full-Stack Developer wanting to build modular and efficient solutions
 <hr/>
 
 
